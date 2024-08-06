@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "username": "Nick",
+      "email": "nick@gmail.com",
+      "password": "$2a$10$2FcvthmfxXKLp4uPhV1aKeuK9PEwQh/BaZz60wGz/.RlZx/scgTP2",
+      "confirmpassword": "123654987",
+      "id": 1
+    },
+    {
+      "username": "Sam",
+      "email": "sam@gmail.com",
+      "password": "$2a$10$y1u5z3jGQnCPaOD/6OvWyuE5d.nYRT97DyQihnRx.htXOxG5pCfUW",
+      "confirmpassword": "123456789",
+      "id": 2
+    },
+    {
+      "username": "Kim",
+      "email": "kim@gmail.com",
+      "password": "$2a$10$Np1./w2xEj3S4I5s8pIEwOUMzG4jh5qoL6.JAblKiEsfTEjhvvG2O",
+      "confirmpassword": "123654987",
+      "id": 3
+    },
+    {
+      "username": "Emma",
+      "email": "emma@gmail.com",
+      "password": "$2a$10$F7prPtkZfdKpt/vweIK0jur4egXU3./7x9KetTofbdkpVd6KDzRWG",
+      "confirmpassword": "123654987",
+      "id": 4
+    },
+    {
+      "username": "sanjana",
+      "email": "sanjana@gmail.com",
+      "password": "$2a$10$h/B4f/18zSAQtUcxoQ/efOLjBg4CgAN2rIuU6zLNp6xdvg1TgJnSC",
+      "confirmpassword": "123654987",
+      "id": 5
+    },
+    {
+      "username": "david",
+      "email": "david@gmail.com",
+      "password": "$2a$10$jfzewuowM0DE1ajixXa4y.dr7HFS3QIymY3RggA7jPTleeqFGQ.FK",
+      "confirmpassword": "123654987",
+      "id": 6
+    },
+    {
+      "username": "Leo",
+      "email": "leo@gmail.com",
+      "password": "$2a$10$7Yk85bv/TsjMewLrf.lzpOM8nE6jNMi.aM1uDld8abIP0PLNU7oSS",
+      "confirmpassword": "123654987",
+      "id": 7
+    },
+    {
+      "username": "Tom",
+      "email": "tom@gmail.com",
+      "password": "$2a$10$.rQKi2WD/.12z.ldB9JqZO.Rx0b7QId39ot6h3VZZRBJ6QvwsSU1i",
+      "confirmpassword": "123654987",
+      "id": 8
+    },
+    {
+      "username": "Ben",
+      "email": "ben@gmail.com",
+      "password": "$2a$10$nLsgTS6zARbhMH9F4mL6m.QUlVW0FBK93gFVXgvhCYLylbmkqNAQW",
+      "confirmpassword": "123654987",
+      "id": 9
+    },
+    {
+      "username": "test1",
+      "email": "test@gmail.com",
+      "password": "$2a$10$yzapm.kr.7VKjAUAdRMiy.kvjHOb6fy7ilZDdB/nyIbBdbZ1fzjTO",
+      "confirmpassword": "123654987",
+      "id": 10
+    }
+  ]
+}
